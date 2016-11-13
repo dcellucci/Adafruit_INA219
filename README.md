@@ -1,6 +1,8 @@
 Adafruit_INA219
 ===============
 
+Adding the ability to use the I2C library (as opposed to the wire), in order to save space and add the ability to have timeouts.
+
 INA219 Current Sensor
 <!-- START COMPATIBILITY TABLE -->
 
